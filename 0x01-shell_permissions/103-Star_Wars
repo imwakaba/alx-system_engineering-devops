@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet tower.blinkenlights.nl
+mpv --no-config --vo=tct
